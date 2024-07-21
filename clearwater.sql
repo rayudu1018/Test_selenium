@@ -328,3 +328,4 @@ INSERT INTO order_line VALUES (1061, 11779, 1);
 INSERT INTO order_line VALUES (1061, 11780, 1);
 INSERT INTO order_line VALUES (1062, 11799, 1);
 INSERT INTO order_line VALUES (1062, 11669, 3);
+select * from order_line;
